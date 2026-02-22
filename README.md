@@ -1,2 +1,2 @@
 # AI-powered-clothes-recommendation-system-
-A Idea that we thought in 2nd sem and now its implemented by big companies ....
+This is an air powered recommendation system which basically recommends a person the type of clothes they should wear By Processing the user image through LLM.
